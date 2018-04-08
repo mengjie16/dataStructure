@@ -63,4 +63,5 @@ int divideAndConquer(int a[], int left, int right) {
 		}
 	}
 	return max3(maxLeftSum, maxRightSum, maxLeftBorderSum + maxRightBorderSum);
-}```
+}
+```
